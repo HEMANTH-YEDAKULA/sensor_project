@@ -1,0 +1,6 @@
+venv/
+Fault_detection.egg-info
+notebooks
+artifacts
+build/bdist.win-amd64
+dist
